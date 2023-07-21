@@ -3,6 +3,7 @@
   "version": "1.37.2",
   "description": "A ChatGPT implementation using the official ChatGPT model via OpenAI's API.",
   "main": "index.js",
+  "engines": ">=18.12.1",
   "bin": {
     "chatgpt-api": "bin/server.js",
     "chatgpt-cli": "bin/cli.js"
